@@ -1,0 +1,10 @@
+[memory]
+map-physical-memory = false
+map-page-table-recursively = false
+
+[frame-buffer]
+width = 1024
+height = 768
+
+[serial]
+enabled = true
